@@ -146,5 +146,11 @@
         %>
     </table>
 </form>
+<div class="layui-footer">
+    <!-- 底部固定区域 -->
+    Copyright © 没有昵称 版权所有 <span style="color:red" id="sitetime"></span> <a
+        href="https://github.com/riruigit/JavaWebExam"> 开源地址</a>
+</div>
 </body>
+
 </html>
