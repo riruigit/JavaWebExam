@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="database.conf.xsd">
+
+    <driver>com.mysql.jdbc.Driver</driver>
+    <url>
+        jdbc:mysql://47.113.125.212/javawebsql?
+        useUnicode=true&amp;characterEncoding=gb2312
+    </url>
+    <user>root</user>
+    <password>a123456!</password>
+</datasource>
